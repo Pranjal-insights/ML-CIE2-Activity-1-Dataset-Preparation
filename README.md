@@ -37,7 +37,7 @@ This repository contains my submission for Machine Learning CIE 2 Activity 1, fo
 - Missing values: 0 after cleaning.
 
 ### Repository Files
-- `ML_Activity_1_Dataset_Preparation.ipynb` – Complete Google Colab notebook with code and outputs.
+- `ML_ACTIVITY_1.ipynb` – Complete Google Colab notebook with code and outputs.
 - `titanic_prepared.csv` – Cleaned and preprocessed dataset.
 - `README.md` – Project documentation.
 
